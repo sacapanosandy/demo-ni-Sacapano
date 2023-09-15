@@ -3,9 +3,24 @@ THIS IS THE ORIGINAL FILE FROM SIR CAGUIAT
 These are the following students in WEBTECH2 na marunong na mag FORK/CLONE/PULL request:
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 1.Rolando J. Tahum Jr
 =======
+=======
+>>>>>>> b7e849db788a7803e4860db8ff74e6c9a47f36d5
 
 1. STUDENT HUBERT I. CAGUIAT
+2. PATRICK IAN B. DAMAYO
+3. ADRIAN C'VEN A. LAZAR 
+4. Rolando J. Tahum Jr
+5. VINCE RUEL V. JUAN
+6. DEXTER R. AROMIN 
+7. JEFF MATHEW D. GARCIA
+8. RAPHAEL JOSHUA O. RAMOS
+9. KENSHIN KILLUA G. WAGWAG
 
+
+<<<<<<< HEAD
 >>>>>>> 291d3b2371309721c1bda06b76abbc948b4b28d0
+=======
+>>>>>>> b7e849db788a7803e4860db8ff74e6c9a47f36d5
